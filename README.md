@@ -23,10 +23,6 @@ To build a smart robot using IoT that:
 - **Buzzer/Speaker Module** – For alerts or instructions
 - **LCD Display** – To show patient vitals
 
-## 🧱 Block Diagram
-
-![Architecture Diagram](./iot_virtual_doctor_block_diagram.png)
-
 ## ✅ Project Advantages
 
 - Enables contactless basic health checkups
@@ -40,12 +36,6 @@ To build a smart robot using IoT that:
 - AI-based voice response and patient interaction
 - Real-time cloud dashboard using AWS IoT or Thingspeak
 
-## 📂 Files Included
-
-- `Virtual_Doctor_Robot.pptx` – Full project presentation with explanation  
-- `iot_virtual_doctor_block_diagram.png` – Block diagram of system architecture
-
-📄 Download Project PPT: [Virtual_Doctor_Robot.pptx](./Virtual_Doctor_Robot.pptx)
 
 *This project showcases how IoT can reshape healthcare delivery through automation, remote sensing, and real-time alerts.*
 
